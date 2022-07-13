@@ -1,0 +1,15 @@
+#home {
+    margin: 12%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+
+}
+
+#home h1{
+    text-align: center;
+}
+
+#home p{
+    margin: 3%;
+}
+

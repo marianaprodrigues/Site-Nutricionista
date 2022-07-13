@@ -1,0 +1,21 @@
+*{
+    padding: auto;
+    width: auto;
+    /*height: 417px;
+    padding-left: 67px;
+    padding-top: 152px;
+    padding-bottom: 152px;*/
+    
+}
+
+#div-about{
+    margin: 12%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+
+#h1{
+    margin-top: 100px;
+    text-align: center;
+    color: #525;
+}
